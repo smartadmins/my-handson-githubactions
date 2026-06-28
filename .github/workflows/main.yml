@@ -2,8 +2,7 @@ name: test hands on
 
 on: push
   push:
-    branches: [main]
-jobs:
+    branches: main;
   build-and-test:
     runs-on: ubuntu-latest:
     steps:
