@@ -1,0 +1,10 @@
+{
+  "name": "javascript-action",
+  "version": "1.0.0",
+  "description": "A simple GitHub JavaScript Action",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@actions/core": "^1.11.1"
+  }
+}
